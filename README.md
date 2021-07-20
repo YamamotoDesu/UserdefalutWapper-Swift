@@ -1,6 +1,6 @@
 # UserDefaultWrapper-Swift  
 https://betterprogramming.pub/property-wrappers-in-swift-b8011c47545d
-## Wapper Class
+## Wrapper Class
 ```swift
 import Foundation
 
